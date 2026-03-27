@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1026373781866",
+    "project_id": "xpquest-brosfactory",
+    "storage_bucket": "xpquest-brosfactory.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026373781866:android:cb0c4b83ce5ab494c77d13",
+        "android_client_info": {
+          "package_name": "com.brosfactory.xpQuest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026373781866-0q12k4tfdkehjagdg3rv1sll49de1r5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brosfactory.xpQuest",
+            "certificate_hash": "c135f04f6bb2aa5f8444c7d47dda8b806346ab20"
+          }
+        },
+        {
+          "client_id": "1026373781866-anh139n2eiocae8r5u8bncmugg2tq85s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9Tto-_H2eCzqPV1lVgGuwoGf4F0cx6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026373781866-anh139n2eiocae8r5u8bncmugg2tq85s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
